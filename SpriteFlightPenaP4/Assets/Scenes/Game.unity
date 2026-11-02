@@ -1114,6 +1114,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8906328171927947080, guid: d3840bee77da4154b9608fc3f5fe57bb, type: 3}
+      propertyPath: m_GravityScale
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1130,6 +1134,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1869809772}
     m_Modifications:
+    - target: {fileID: 2825107043175696368, guid: 839817fbfff9d954caaffed91d13404f, type: 3}
+      propertyPath: m_GravityScale
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4740930532713595407, guid: 839817fbfff9d954caaffed91d13404f, type: 3}
       propertyPath: m_LocalScale.y
       value: 1.8330659
@@ -1234,6 +1242,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -53.755
       objectReference: {fileID: 0}
+    - target: {fileID: 4042403233389071525, guid: 3ed6f1d0550d90841a5a6270baaeeaec, type: 3}
+      propertyPath: m_GravityScale
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8887727180405028050, guid: 3ed6f1d0550d90841a5a6270baaeeaec, type: 3}
       propertyPath: m_Name
       value: Obstacle (7)
@@ -1257,6 +1269,10 @@ PrefabInstance:
     - target: {fileID: 3513750105085680188, guid: 521af26ff8da77245b05c383d7704894, type: 3}
       propertyPath: m_Name
       value: Obstacle (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4004680695801145201, guid: 521af26ff8da77245b05c383d7704894, type: 3}
+      propertyPath: m_GravityScale
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4748241379320508866, guid: 521af26ff8da77245b05c383d7704894, type: 3}
       propertyPath: m_LocalScale.x
@@ -1325,6 +1341,10 @@ PrefabInstance:
     - target: {fileID: 308413154040387560, guid: c1adfe384fc0e94448c5e90bbde9cfcd, type: 3}
       propertyPath: m_Name
       value: Obstacle
+      objectReference: {fileID: 0}
+    - target: {fileID: 6634374437333879534, guid: c1adfe384fc0e94448c5e90bbde9cfcd, type: 3}
+      propertyPath: m_GravityScale
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7043829066107190470, guid: c1adfe384fc0e94448c5e90bbde9cfcd, type: 3}
       propertyPath: m_LocalScale.x
@@ -1442,6 +1462,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 27.992
       objectReference: {fileID: 0}
+    - target: {fileID: 6267490755213118665, guid: 55b60cc796cef6d4abb5e5324bb89b71, type: 3}
+      propertyPath: m_GravityScale
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1506,6 +1530,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 9010506939191705149, guid: d2b2a934fa242514e8476c7ddcdea681, type: 3}
+      propertyPath: m_GravityScale
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1525,6 +1553,10 @@ PrefabInstance:
     - target: {fileID: 3220419689807370834, guid: af35979ffd8b6134a87639a6f0415de6, type: 3}
       propertyPath: m_Name
       value: Obstacle (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7746746127793180801, guid: af35979ffd8b6134a87639a6f0415de6, type: 3}
+      propertyPath: m_GravityScale
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8695831961923608999, guid: af35979ffd8b6134a87639a6f0415de6, type: 3}
       propertyPath: m_LocalPosition.x
