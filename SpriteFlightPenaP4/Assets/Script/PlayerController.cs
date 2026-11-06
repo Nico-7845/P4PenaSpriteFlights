@@ -3,7 +3,9 @@ using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
+    private float elapsedTime = 0f;
     public float thrustForce = 1f;
+
     Rigidbody2D rb;
 
     void Start()
