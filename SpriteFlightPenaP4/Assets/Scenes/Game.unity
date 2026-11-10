@@ -196,9 +196,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 324070307}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.009499053, y: -0.024433937, z: 0.9995985, w: -0.01074785}
-  m_LocalPosition: {x: 0.11, y: -1.84, z: 0.02}
-  m_LocalScale: {x: 1.2339938, y: 0.9022, z: 1}
+  m_LocalRotation: {x: -0.0094990535, y: -0.024433939, z: 0.99959856, w: -0.010747851}
+  m_LocalPosition: {x: 0.11, y: -1.8400002, z: 0.02}
+  m_LocalScale: {x: 1.2339934, y: 0.90219975, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1433015140}
@@ -1197,7 +1197,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58c3337b800aa2f4e9975015568af8cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
+  scoreMultiplier: 10
   thrustForce: 1
+  uiDocument: {fileID: 1979943596}
+  explosionEffect: {fileID: 4775396678478108389, guid: f1b8b74bafb928c41832b19a1b93691e, type: 3}
 --- !u!1 &1438855610
 GameObject:
   m_ObjectHideFlags: 0
